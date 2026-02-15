@@ -65,3 +65,29 @@
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- ---->    
+   Esto lo use para 01- intro 
+
+  <div id="user-info"></div>
+        <p >Recover Password</p>
+        <button id="recovery-btn">Recover Password</button>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- ---->    
+
+    Esto lo use para 02-factory.js
+<p>Username:</p>
+       <input type="text" id="username" placeholder="Temach">
+       <p>Password:</p>
+       <input type="password" id="password" placeholder="SingaMan69">
+       <p>Contact Email:</p>
+       <input type="email" id="contact-email" placeholder="zunga@gmail.com">
+       <button id="register-btn">Register</button>
+       <aside id="user-list"></aside>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- ---->    
+    Esto lo use para 03-constructor
+<p>Username:</p>
+       <input type="text" id="username" placeholder="Temach">
+       <p>Password:</p>
+       <input type="password" id="password" placeholder="SingaMan69">
+       <button id="register-btn">Register</button>
+       <aside id="user-list"></aside>
